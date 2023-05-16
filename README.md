@@ -1,6 +1,6 @@
 # AI4ALL Discover AI Final Project Project Proposal
 
-## Stress Detection Project Proposal Group #2 AI4ALL 4/3/2023
+**Stress Detection Project Proposal Group #2 AI4ALL 4/3/2023**
 
 
 **Team members**
